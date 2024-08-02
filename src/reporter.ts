@@ -99,7 +99,7 @@ export function getTestCaseName(testname: string) {
  */
 async function addTestRailRun(projectId: number) {
 	return await api.addRun(projectId, {
-		include_all: true,
+		include_all: false,
 		name: runName,
 		suite_id: suiteId,
 	}).then(
