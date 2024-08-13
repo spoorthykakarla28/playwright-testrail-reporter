@@ -7,7 +7,7 @@ playwright-testrail-reporter is a custom reporter for Playwright Test to seamles
 ## Installation
 
 ```bash
-npm install github:serhatgemici/playwright-testrail-reporter 
+npm install github:spoorthy89/playwright-testrail-reporter 
 ```
 ## Prerequisites
 
